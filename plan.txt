@@ -1,3 +1,3 @@
 Learn Git
-Learn write code
-
+Learn to write code
+with python and git
